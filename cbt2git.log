@@ -1,0 +1,14 @@
+2023-08-06 04:51:21.103144 - Initialized conversion of CBT491
+2023-08-06 04:51:21.340260 - Received CBT.V505.FILE491.PDS from FILE491.XMI 
+2023-08-06 04:51:21.343197 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE491.PDS, moved to PDS/$$$#DATE
+2023-08-06 04:51:21.344400 - Found $$NOTE.txt (text/plain) in CBT.V505.FILE491.PDS, moved to PDS/$$NOTE
+2023-08-06 04:51:21.345547 - Found $$NOTE1.txt (text/plain) in CBT.V505.FILE491.PDS, moved to PDS/$$NOTE1
+2023-08-06 04:51:21.346594 - Found $$NOTE2.txt (text/plain) in CBT.V505.FILE491.PDS, moved to PDS/$$NOTE2
+2023-08-06 04:51:21.347539 - Found $PDSLOAD.jcl (text/plain) in CBT.V505.FILE491.PDS, moved to PDS/$PDSLOAD
+2023-08-06 04:51:21.348537 - Found @FILE491.txt (text/plain) in CBT.V505.FILE491.PDS, moved to PDS/@FILE491
+2023-08-06 04:51:21.348548 - Found BATCHART.bin containing application/octet-stream, moved to PDS/BATCHART
+2023-08-06 04:51:21.351170 - Found LECH.txt (text/plain) in CBT.V505.FILE491.PDS, moved to PDS/LECH
+2023-08-06 04:51:21.357038 - Found PDSLOAD.xmi (application/xmit) in CBT.V505.FILE491.PDS
+2023-08-06 04:51:21.364223   - Received RECFM=U data, stored XMIT file as CBT491/PDSLOAD.xmi
+2023-08-06 04:51:21.365335 - Found XMITMAIL.txt (text/plain) in CBT.V505.FILE491.PDS, moved to PDS/XMITMAIL
+2023-08-06 04:51:21.366320 - Found XMITMAIN.txt (text/plain) in CBT.V505.FILE491.PDS, moved to PDS/XMITMAIN
