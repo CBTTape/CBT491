@@ -1,0 +1,14 @@
+2025-04-13 20:08:54.717574 - Received CBT.V508.FILE491.PDS from FILE491.XMI 
+2025-04-13 20:08:54.718492 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE491.PDS, moved to PDS/$$$#DATE
+2025-04-13 20:08:54.718591 - Found $$NOTE.txt (text/plain) in CBT.V508.FILE491.PDS, moved to PDS/$$NOTE
+2025-04-13 20:08:54.718675 - Found $$NOTE1.txt (text/plain) in CBT.V508.FILE491.PDS, moved to PDS/$$NOTE1
+2025-04-13 20:08:54.718742 - Found $$NOTE2.txt (text/plain) in CBT.V508.FILE491.PDS, moved to PDS/$$NOTE2
+2025-04-13 20:08:54.718803 - Found $PDSLOAD.jcl (text/plain) in CBT.V508.FILE491.PDS, moved to PDS/$PDSLOAD
+2025-04-13 20:08:54.718869 - Found @FILE491.txt (text/plain) in CBT.V508.FILE491.PDS, moved to PDS/@FILE491
+2025-04-13 20:08:54.719590 - Found BATCHART.bin (application/octet-stream) in CBT.V508.FILE491.PDS, moved to PDS/BATCHART
+2025-04-13 20:08:54.719709 - Found LECH.txt (text/plain) in CBT.V508.FILE491.PDS, moved to PDS/LECH
+2025-04-13 20:08:54.719799 - Found PDSLOAD.xmi (application/xmit) in CBT.V508.FILE491.PDS, moved to PDS/PDSLOAD.xmi
+2025-04-13 20:08:54.726300 - Received WSBG.LOAD from PDSLOAD.xmi 
+2025-04-13 20:08:54.726758 - Found PDSLOAD.bin (application/octet-stream) in WSBG.LOAD, moved to PDSLOAD/PDSLOAD
+2025-04-13 20:08:54.727127 - Found XMITMAIL.txt (text/plain) in CBT.V508.FILE491.PDS, moved to PDS/XMITMAIL
+2025-04-13 20:08:54.727202 - Found XMITMAIN.txt (text/plain) in CBT.V508.FILE491.PDS, moved to PDS/XMITMAIN
